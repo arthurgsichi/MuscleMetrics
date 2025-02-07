@@ -1,0 +1,68 @@
+[
+  {
+    "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_1",
+    "RelativePath": "CalcularGastoCalorico",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RequestGastoCalorico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_0",
+    "RelativePath": "CalcularTaxaMetabolicaBasal",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RequestTBM",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_2",
+    "RelativePath": "EscolhaSeuObjetivo",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RequestObjetivo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

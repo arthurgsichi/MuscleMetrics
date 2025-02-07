@@ -1,0 +1,1 @@
+public record RequestObjetivo(string Nome, string Objetivo);
