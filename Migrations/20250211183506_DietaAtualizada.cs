@@ -5,35 +5,28 @@
 namespace MuscleMetrics.Migrations
 {
     /// <inheritdoc />
-    public partial class UsuarioAtualizacaoParte2 : Migration
+    public partial class DietaAtualizada : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AddColumn<double>(
-                name: "CaloriaDieta",
-                table: "Usuario",
+                name: "Altura",
+                table: "Dieta",
                 type: "float",
                 nullable: false,
                 defaultValue: 0.0);
 
             migrationBuilder.AddColumn<double>(
-                name: "Carboidrato",
-                table: "Usuario",
+                name: "BF",
+                table: "Dieta",
                 type: "float",
                 nullable: false,
                 defaultValue: 0.0);
 
             migrationBuilder.AddColumn<double>(
-                name: "Gordura",
-                table: "Usuario",
-                type: "float",
-                nullable: false,
-                defaultValue: 0.0);
-
-            migrationBuilder.AddColumn<double>(
-                name: "Proteina",
-                table: "Usuario",
+                name: "Peso",
+                table: "Dieta",
                 type: "float",
                 nullable: false,
                 defaultValue: 0.0);
@@ -43,20 +36,16 @@ namespace MuscleMetrics.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropColumn(
-                name: "CaloriaDieta",
-                table: "Usuario");
+                name: "Altura",
+                table: "Dieta");
 
             migrationBuilder.DropColumn(
-                name: "Carboidrato",
-                table: "Usuario");
+                name: "BF",
+                table: "Dieta");
 
             migrationBuilder.DropColumn(
-                name: "Gordura",
-                table: "Usuario");
-
-            migrationBuilder.DropColumn(
-                name: "Proteina",
-                table: "Usuario");
+                name: "Peso",
+                table: "Dieta");
         }
     }
 }

@@ -15,10 +15,7 @@ namespace MuscleMetrics.Entidades
         public double TMB { get; set; }
         public double FatorAtividade { get; set; }
         public double GastoCalórico { get; set; }
-        public double CaloriaDieta { get; set; }
-        public double Proteina { get; set; }
-        public double Carboidrato { get; set; }
-        public double Gordura { get; set; }
+        public int DiasDeTreinoNaSemana { get; set; }
         public Usuario()
         {
 
