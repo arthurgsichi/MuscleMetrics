@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\rotas\\resultadomacro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:rotas\\resultadomacro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\migrations\\20250205144708_usuarioatualizacaoparte2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:migrations\\20250205144708_usuarioatualizacaoparte2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\migrations\\20250204185005_usuarioatualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:migrations\\20250204185005_usuarioatualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\rotas\\requesttbm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:rotas\\requesttbm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\migrations\\20250204152549_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:migrations\\20250204152549_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\entidades\\nivelatividadefisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:entidades\\nivelatividadefisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\rotas\\resultadomacro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:rotas\\resultadomacro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\rotas\\requestobjetivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:rotas\\requestgastocalorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\rotas\\requesttbm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:rotas\\requesttbm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\entidades\\nivelatividadefisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:entidades\\nivelatividadefisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0416ECA7-9608-42D3-B527-5F1620B3C7BB}|MuscleMetrics.csproj|c:\\users\\arthu\\source\\repos\\musclemetrics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -82,100 +70,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250205144708_UsuarioAtualizacaoParte2.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Migrations\\20250205144708_UsuarioAtualizacaoParte2.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250205144708_UsuarioAtualizacaoParte2.cs",
-              "ToolTip": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Migrations\\20250205144708_UsuarioAtualizacaoParte2.cs",
-              "RelativeToolTip": "Migrations\\20250205144708_UsuarioAtualizacaoParte2.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T14:47:14.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RequestObjetivo.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Rotas\\RequestObjetivo.cs",
-              "RelativeDocumentMoniker": "Rotas\\RequestObjetivo.cs",
-              "ToolTip": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Rotas\\RequestObjetivo.cs",
-              "RelativeToolTip": "Rotas\\RequestObjetivo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T13:09:24.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250204152549_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Migrations\\20250204152549_Initial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250204152549_Initial.cs",
-              "ToolTip": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Migrations\\20250204152549_Initial.cs",
-              "RelativeToolTip": "Migrations\\20250204152549_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T15:30:10.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ResultadoMacro.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Rotas\\ResultadoMacro.cs",
               "RelativeDocumentMoniker": "Rotas\\ResultadoMacro.cs",
               "ToolTip": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Rotas\\ResultadoMacro.cs",
               "RelativeToolTip": "Rotas\\ResultadoMacro.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAgwF0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwEkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T17:41:59.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250204185005_UsuarioAtualizacao.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Migrations\\20250204185005_UsuarioAtualizacao.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250204185005_UsuarioAtualizacao.cs",
-              "ToolTip": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Migrations\\20250204185005_UsuarioAtualizacao.cs",
-              "RelativeToolTip": "Migrations\\20250204185005_UsuarioAtualizacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RequestObjetivo.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Rotas\\RequestObjetivo.cs",
+              "RelativeDocumentMoniker": "Rotas\\RequestObjetivo.cs",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Rotas\\RequestObjetivo.cs",
+              "RelativeToolTip": "Rotas\\RequestObjetivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T18:50:08.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T13:09:24.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "RequestGastoCalorico.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Rotas\\RequestGastoCalorico.cs",
               "RelativeDocumentMoniker": "Rotas\\RequestGastoCalorico.cs",
               "ToolTip": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Rotas\\RequestGastoCalorico.cs",
               "RelativeToolTip": "Rotas\\RequestGastoCalorico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T14:55:32.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RequestTBM.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Rotas\\RequestTBM.cs",
               "RelativeDocumentMoniker": "Rotas\\RequestTBM.cs",
               "ToolTip": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Rotas\\RequestTBM.cs",
               "RelativeToolTip": "Rotas\\RequestTBM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T15:31:16.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T15:31:16.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "NivelAtividadeFisica.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Entidades\\NivelAtividadeFisica.cs",
               "RelativeDocumentMoniker": "Entidades\\NivelAtividadeFisica.cs",
@@ -183,11 +131,12 @@
               "RelativeToolTip": "Entidades\\NivelAtividadeFisica.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T14:41:05.63Z"
+              "WhenOpened": "2025-02-04T14:41:05.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "Entidades\\Usuario.cs",
@@ -200,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -212,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "MuscleMetrics.http",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\MuscleMetrics.http",
               "RelativeDocumentMoniker": "MuscleMetrics.http",
@@ -224,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -236,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -248,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "20250122175053_Initial.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Migrations\\20250122175053_Initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250122175053_Initial.cs",
@@ -259,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -271,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "MuscleMetrics.csproj",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\MuscleMetrics.csproj",
               "RelativeDocumentMoniker": "MuscleMetrics.csproj",
@@ -283,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "MuscleMetrics",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\MuscleMetrics.csproj",
               "RelativeDocumentMoniker": "MuscleMetrics.csproj",
@@ -294,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "RotasTBM.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\MuscleMetrics\\Rotas\\RotasTBM.cs",
               "RelativeDocumentMoniker": "Rotas\\RotasTBM.cs",

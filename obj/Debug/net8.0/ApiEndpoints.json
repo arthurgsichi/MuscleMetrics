@@ -1,6 +1,28 @@
 [
   {
     "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_6",
+    "RelativePath": "AtualizarCarga",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RequestAtualizarCarga",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
     "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_1",
     "RelativePath": "CalcularGastoCalorico",
     "HttpMethod": "POST",
@@ -45,8 +67,30 @@
   },
   {
     "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_4",
+    "RelativePath": "EscolhaTreino",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MuscleMetrics.Rotas.RequestTreino",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
     "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_2",
-    "RelativePath": "EscolhaSeuObjetivo",
+    "RelativePath": "EscolherObjetivoUsuario",
     "HttpMethod": "POST",
     "IsController": false,
     "Order": 0,
@@ -54,6 +98,104 @@
       {
         "Name": "request",
         "Type": "RequestObjetivo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_3",
+    "RelativePath": "EvolucaoUsuario",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RequestEvolucao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_7",
+    "RelativePath": "RankingPerformance",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_8",
+    "RelativePath": "Teste",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_9",
+    "RelativePath": "VerTreino",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MuscleMetrics.Rotas.RequestTreino",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MuscleMetrics.Rotas.ResultadoMacro\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRotasResultadoMacro\u003Eb__0_5",
+    "RelativePath": "VisualizarTreinoAtual",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MuscleMetrics.Rotas.RequestTreino",
         "IsRequired": true
       }
     ],
