@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MuscleMetrics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+104ca4db5e3a34432c2d6350a6c4e2bcd1a1243c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c0a7184e022b2a229c57af838447e3683c1e31")]
 [assembly: System.Reflection.AssemblyProductAttribute("MuscleMetrics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MuscleMetrics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

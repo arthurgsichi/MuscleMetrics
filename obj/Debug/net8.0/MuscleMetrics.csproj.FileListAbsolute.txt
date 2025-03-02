@@ -169,3 +169,9 @@ C:\Users\arthu\source\repos\MuscleMetrics\bin\Debug\net8.0\zh-Hans\Microsoft.Cod
 C:\Users\arthu\source\repos\MuscleMetrics\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\arthu\source\repos\MuscleMetrics\bin\Debug\net8.0\DocumentLayout.backup.json
 C:\Users\arthu\source\repos\MuscleMetrics\obj\Debug\net8.0\MuscleMetrics.sourcelink.json
+C:\Users\arthu\source\repos\MuscleMetrics\bin\Debug\net8.0\app\web.config
+C:\Users\arthu\source\repos\MuscleMetrics\bin\Debug\net8.0\app\appsettings.Development.json
+C:\Users\arthu\source\repos\MuscleMetrics\bin\Debug\net8.0\app\appsettings.json
+C:\Users\arthu\source\repos\MuscleMetrics\bin\Debug\net8.0\app\DocumentLayout.backup.json
+C:\Users\arthu\source\repos\MuscleMetrics\bin\Debug\net8.0\app\MuscleMetrics.deps.json
+C:\Users\arthu\source\repos\MuscleMetrics\bin\Debug\net8.0\app\MuscleMetrics.runtimeconfig.json
