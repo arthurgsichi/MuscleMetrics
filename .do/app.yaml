@@ -1,0 +1,14 @@
+name: muscleapi
+services:
+- name: web
+  github:
+    repo: seu-usuario/muscleMetrics
+    branch: main
+  build_command: dotnet publish -c Release -o ./bin/Release/net8.0/publish
+  run_command: dotnet ./bin/Release/net8.0/publish/MuscleMetrics.dll
+  http_port: 5241
+  envs:
+  - key: ASPNETCORE_ENVIRONMENT
+    value: Production
+  - key: ASPNETCORE_URLS
+    value: http://+:5241;https://+:7188
